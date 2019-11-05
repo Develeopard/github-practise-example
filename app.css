@@ -5,7 +5,7 @@
 }
 
 .wrapper{
-    background-color: khaki;
+    background-color: rgb(240, 240, 240);
     max-width: 600px;
     height: 600px;
     margin: 0 auto;
@@ -22,3 +22,16 @@
 .box{
     border: 3px solid gray;
 }
+
+/* .box1{
+    background-color: hotpink;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: mediumpurple;
+}
+.box4{
+    background-color: firebrick;
+} */
